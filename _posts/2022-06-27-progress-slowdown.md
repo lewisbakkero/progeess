@@ -52,4 +52,8 @@ These incremental innovations saturate and are best modelled as a sigmoidal func
 
 Think of the transistor, DARPA's arpanet (prelude of the Internet), and, more recently, CRISPR and our ability to synthesise vaccines from RNA. 
 
+## <span style="color:darkred">Reflection</span>
 
+```
+Is human progress really slowing down or is it just our way to measure progress was flawed all along?
+```
